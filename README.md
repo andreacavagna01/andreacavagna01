@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 
 #### 🔖 Resources 
 - Subscribe to my blog about open-souce and IAM best-practices 👉 [itscava.com](https://www.itscava.com/)
-- Follow me on Twitter [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/garrrikkotua.svg?style=social&label=Follow%20%40a_cava94)](https://twitter.com/a_cava94)
+- Follow me on Twitter [![Twitter](https://img.shields.io/twitter/follow/a_cava94?style=social)](https://twitter.com/a_cava94)
 
