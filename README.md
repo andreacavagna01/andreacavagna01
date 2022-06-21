@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **andreacavagna01/andreacavagna01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi, I am Andrea Cavagna 👋
+
+#### Open-source enthusiast, basketball lover, DevOps or CloudOps (hard to choose), and founder of [Noovolari](https://github.com/Noovolari)
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/andreacavagna01)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-cavagna-493179139)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:andrea.cavagna@noovolari.com)
+
+ 🔭 I’m currently working on [Leapp](https://github.com/Noovolari/leapp)
+
+#### 👨‍💻 About me
+
+ - Trying to ease the Cloud Operations workflow
+ - Developing DevTool for Cloud-native people
+ - Coding in TypeScript mostly
+
+
+#### 🔖 Resources 
+- Subscribe to my blog about open-souce and IAM best-practices 👉 [itscava.com](https://www.itscava.com/)
+- Follow me on Twitter [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/garrrikkotua.svg?style=social&label=Follow%20%40a_cava94)](https://twitter.com/a_cava94)
+
