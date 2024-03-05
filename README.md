@@ -29,9 +29,11 @@ Here are some ideas to get you started:
  - Trying to ease the Cloud Operations workflow
  - Developing DevTool for Cloud-native people
  - Coding in TypeScript mostly
+ - FrontEnd and UX/UI passionate
+ - Developer Experience 😄
 
 
 #### 🔖 Resources 
-- Subscribe to my blog about open-souce and IAM best-practices 👉 [itscava.com](https://www.itscava.com/)
+- Subscribe to my blog about open-source and IAM best practices 👉 [itscava.com](https://www.itscava.com/)
 - Follow me on Twitter [![Twitter](https://img.shields.io/twitter/follow/a_cava94?style=social)](https://twitter.com/a_cava94)
 
